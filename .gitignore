@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.exe
+selftest.png
+ps13d_frame.png
+shot.png
+build.log
+pytool.zip
+
+# Editor user data (optional: uncomment to keep saved scenes out of git)
+# *.ps13d
+
+# OS / editor clutter
+Thumbs.db
+.vscode/
