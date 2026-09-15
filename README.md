@@ -17,8 +17,7 @@ editing tool.
 ## Preview
 
 A frame rendered entirely by the software pipeline (headless `make selftest`):
-
-<img width="256" alt="sh" src="https://github.com/user-attachments/assets/0cc270d3-a31f-43c5-be3d-791cb8a33b83" />
+![Rendered frame] <img width="256" alt="sh" src="https://github.com/user-attachments/assets/0cc270d3-a31f-43c5-be3d-791cb8a33b83" />
 ## Highlights
 
 - **Software PS1-style renderer** — scanline rasterizer, affine UVs, GTE-style
