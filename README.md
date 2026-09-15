@@ -18,8 +18,7 @@ editing tool.
 
 A frame rendered entirely by the software pipeline (headless `make selftest`):
 
-![Rendered frame](<img width="913" height="577" alt="sh" src="https://github.com/user-attachments/assets/65b48d0e-4c7e-4a70-8c58-d1f822e1b66d" />
-)
+![Rendered frame](<img width="913" height="577" alt="sh" src="https://github.com/user-attachments/assets/65b48d0e-4c7e-4a70-8c58-d1f822e1b66d" />)
 
 ## Highlights
 
